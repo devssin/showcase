@@ -1,5 +1,5 @@
 
-import {Download, SectionWrapper, Features, Button} from './components'
+import {Download, SectionWrapper, Features} from './components'
 import assets from './assets'
 
 const App = () => {
